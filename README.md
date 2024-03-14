@@ -4,6 +4,7 @@
 ![Build Status](https://github.com/python-social-auth/social-app-django/workflows/Tests/badge.svg)
 [![PyPI version](https://badge.fury.io/py/social-auth-app-django.svg)](https://badge.fury.io/py/social-auth-app-django)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=matiasaguirre%40gmail%2ecom&lc=US&item_name=Python%20Social%20Auth&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmoosasharieff%2Fsocial-app-django.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmoosasharieff%2Fsocial-app-django?ref=badge_shield)
 
 Python Social Auth is an easy to setup social authentication/registration
 mechanism with support for several frameworks and auth providers.
@@ -44,6 +45,9 @@ This project follows [Semantic Versioning 2.0.0](http://semver.org/spec/v2.0.0.h
 ## License
 
 This project follows the BSD license. See the [LICENSE](LICENSE) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmoosasharieff%2Fsocial-app-django.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmoosasharieff%2Fsocial-app-django?ref=badge_large)
 
 ## Donations
 
